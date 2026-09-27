@@ -1,0 +1,29 @@
+# PyCharm
+.idea/
+
+# Virtual Environment
+.venv/
+venv/
+
+# Python
+__pycache__/
+*.py[cod]
+.pytest_cache/
+
+# Distribution
+build/
+dist/
+
+# Nuitka
+*.build
+*.dist
+
+# Excel temporary files
+~$*.xlsx
+~$*.xlsm
+
+# Output files
+output/
+
+# Application state
+src/config/label_print_state.json
