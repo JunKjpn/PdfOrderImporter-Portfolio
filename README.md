@@ -32,6 +32,18 @@ PDF解析・Excel転記・帳票生成・ラベルPDF生成までの定型作業
 
 ---
 
+## 動作イメージ
+
+### メイン画面
+
+![メイン画面](screenshots/menu.png)
+
+### ラベルPDF生成
+
+![ラベルPDF生成](screenshots/label_print.png)
+
+---
+
 ## 動作環境
 
 - Windows 10 / Windows 11
